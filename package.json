@@ -1,0 +1,28 @@
+{
+  "name": "dns-all-in-one",
+  "version": "0.0.1",
+  "description": "DNS query and dig(simulation) app||IP information query",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangmingkai4315/dns-all-in-one.git"
+  },
+  "keywords": [
+    "dns",
+    "node",
+    "react"
+  ],
+  "author": "mike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangmingkai4315/dns-all-in-one/issues"
+  },
+  "homepage": "https://github.com/zhangmingkai4315/dns-all-in-one",
+  "dependencies": {
+    "ipaddr.js": "^1.0.5",
+    "native-dns-packet": "^0.1.1"
+  }
+}
